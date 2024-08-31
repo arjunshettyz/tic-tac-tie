@@ -10,7 +10,7 @@ Player 1's turn. Enter row and column (0, 1, 2): 0 0
 ---|---|---
    |   |  
 ---|---|---
-   |   |  
+   |   |   
 
 Player 2's turn. Enter row and column (0, 1, 2): 1 1
 
